@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|c:\\modern\\level 2 term 2\\comp grah\\3d_chessgame\\chess_game\\assets\\scenes\\pauseresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\pauseresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\assets\\scripts\\boardhighlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A109F2CC-3173-70D0-B535-B154A1E1A50E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardhighlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:36:01.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseResume.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scenes\\PauseResume.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\PauseResume.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scenes\\PauseResume.cs",
+              "RelativeToolTip": "Assets\\Scenes\\PauseResume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:48:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardManager.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\BoardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoardManager.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\BoardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoardManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAEBdwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:02:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\King.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\King.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\King.cs",
+              "RelativeToolTip": "Assets\\Scripts\\King.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:02:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoardHighlights.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\BoardHighlights.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoardHighlights.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\BoardHighlights.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoardHighlights.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:57:53.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Bishop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bishop.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Bishop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:06:34.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pawn.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Pawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:41:35.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:11:28.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Queen.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Queen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Queen.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAQwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:14:42.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Rook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rook.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Rook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:16:30.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chessman.cs",
+              "DocumentMoniker": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Chessman.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chessman.cs",
+              "ToolTip": "C:\\modern\\level 2 term 2\\comp grah\\3D_ChessGame\\Chess_Game\\Assets\\Scripts\\Chessman.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chessman.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:26:14.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
